@@ -9,9 +9,9 @@ authors = ["Hiroaki Sano <hiroaki.sano.9stories@gmail.com>"]
 repository = "https://github.com/hiroakis/bcd-convert"
 homepage = "https://github.com/hiroakis/bcd-convert"
 description = "A Rust library for encoding and decoding numbers in Binary Coded Decimal (BCD) format, supporting conversions between integers, strings, and raw BCD data."
-documentation = "https://docs.rs/bcd_convert"
+documentation = "https://docs.rs/bcd-convert"
 keywords = ["bcd", "binary-coded-decimal", "numeric"]
-categories = ["encoding", "utilities", "data-format"]
+categories = ["encoding"]
 
 [dependencies]
 thiserror= "1"
