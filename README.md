@@ -1,5 +1,9 @@
 # bcd-convert
 
+[![test](https://github.com/hiroakis/bcd-convert/actions/workflows/test.yml/badge.svg)](https://github.com/hiroakis/bcd-convert/actions/workflows/test.yml)
+[![Crates.io](https://img.shields.io/crates/v/bcd-convert)](https://crates.io/crates/bcd-convert)
+[![docs.rs](https://img.shields.io/docsrs/bcd-convert)](https://docs.rs/bcd-convert)
+
 A Rust library for working with Binary Coded Decimal (BCD) values. This crate provides utilities for converting between numeric types (such as `u64`) and BCD-encoded data, as well as parsing and formatting BCD values from and into strings.
 
 ## Features
